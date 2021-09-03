@@ -1,0 +1,4 @@
+Print(" hello world ")
+DENIS = 3
+WILSON = 5
+print( "denis * wilson" )
